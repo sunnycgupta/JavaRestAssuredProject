@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="240983" started-at="2021-09-25T01:56:57 IST" finished-at="2021-09-25T02:00:58 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="240983" started-at="2021-09-25T01:56:57 IST" finished-at="2021-09-25T02:00:58 IST">
+      <class name="suntest.LibraryAPIConcept">
+        <test-method status="PASS" signature="addBookInLibrary()[pri:0, instance:suntest.LibraryAPIConcept@618b19ad]" name="addBookInLibrary" duration-ms="226008" started-at="2021-09-25T01:56:57 IST" finished-at="2021-09-25T02:00:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addBookInLibrary -->
+        <test-method status="PASS" signature="getBookFromLibrary()[pri:0, instance:suntest.LibraryAPIConcept@618b19ad]" name="getBookFromLibrary" duration-ms="12300" started-at="2021-09-25T02:00:43 IST" finished-at="2021-09-25T02:00:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookFromLibrary -->
+        <test-method status="PASS" signature="xdeleteBookFromLibrary()[pri:0, instance:suntest.LibraryAPIConcept@618b19ad]" name="xdeleteBookFromLibrary" duration-ms="2483" started-at="2021-09-25T02:00:55 IST" finished-at="2021-09-25T02:00:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xdeleteBookFromLibrary -->
+      </class> <!-- suntest.LibraryAPIConcept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
